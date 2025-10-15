@@ -313,10 +313,7 @@ Created comprehensive visualizations:
 
 ### Dashboard Layout
 
-```
 <img width="1385" height="783" alt="image" src="https://github.com/user-attachments/assets/59258a69-8171-496c-bd0a-42ef0d251a35" />
-
-```
 
 ---
 
