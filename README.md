@@ -314,26 +314,8 @@ Created comprehensive visualizations:
 ### Dashboard Layout
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│         IMDB MOVIE RATINGS ANALYSIS DASHBOARD               │
-├─────────────────────────────────────────────────────────────┤
-│ Year: [1920 ═══●═════ 2020] │ Genre: [▼ All Genres]       │
-├─────────────────────────────────────────────────────────────┤
-│  Avg Rating  │ Total Movies │ Median Rating │ Total Votes  │
-│    7.95      │     1000     │     7.90      │    2.5M      │
-├──────────────────────────┬──────────────────────────────────┤
-│                          │                                  │
-│  Rating Distribution     │   Top 10 Movies                  │
-│  [Histogram]             │   [Bar Chart]                    │
-│                          │                                  │
-├──────────────────────────┼──────────────────────────────────┤
-│                          │                                  │
-│  Genre Analysis          │   Rating Trends Over Time        │
-│  [Bar Chart]             │   [Line Chart]                   │
-│                          │                                  │
-├──────────────────────────┴──────────────────────────────────┤
-│              Votes vs Rating Scatter Plot                    │
-└──────────────────────────────────────────────────────────────┘
+<img width="1385" height="783" alt="image" src="https://github.com/user-attachments/assets/59258a69-8171-496c-bd0a-42ef0d251a35" />
+
 ```
 
 ---
